@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.horizontal-slider {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.thumb {
+  background-color: #007bff;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  cursor: grab;
+}
+
+.track {
+  background: #ddd;
+  height: 5px;
+}
+.map-component {
+  margin-top: 150px;
+}
